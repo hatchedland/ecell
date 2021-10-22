@@ -94,7 +94,7 @@
  .link-to-linkedin:hover path{
 	fill: black;
 }
-@media (max-width: 810px) {
+/* @media (max-width: 810px) {
 
 	.socials{
 		transform: scale(1);
@@ -105,4 +105,4 @@
 		transform: translateX(0);
 	}
 	
-}
+} */
